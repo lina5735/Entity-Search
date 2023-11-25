@@ -24,4 +24,4 @@ yarn-error.log*
 
 
 # Ignore a specific file
-# api/venv/notebook.ipynb
+api/venv/notebook.ipynb
