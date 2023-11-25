@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+/Users/lina/Developer/PracticesProjects/search/search-ui/.gitignore
 # dependencies
 /node_modules
 /.pnp
@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Ignore a specific file
+notebook.ipynb
