@@ -27,4 +27,4 @@ yarn-error.log*
 api/venv/compute_time.ipynb
 
 
-# api/venv/.ipynb_checkpoints/
+api/venv/.ipynb_checkpoints
