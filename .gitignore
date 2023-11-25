@@ -24,4 +24,7 @@ yarn-error.log*
 
 
 # Ignore a specific file
-api/venv/notebook.ipynb
+api/venv/compute_time.ipynb
+
+
+# api/venv/.ipynb_checkpoints/

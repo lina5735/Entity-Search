@@ -126,13 +126,7 @@ function App() {
                   setRunTime("Computation takes: "+(fetchTime / 60000).toFixed(2)+" minutes")
                   console.log(data.result)
                   setResult(data.result)
-                  
-                  // .then(res => res.json()).then(
-                  //   data => {
-                  //     setResult(data.result)
-                  //     console.log(data.result)
-                  //   }
-                  // )
+
                   setAlert("Search done!")
                 }
               }>

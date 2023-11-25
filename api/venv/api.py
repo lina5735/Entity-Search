@@ -15,13 +15,10 @@ def search():
     date = json_data["date"].strip()
 
     top_10 = weighted_search(people, location, organization, date, 100)
-    
+
     output = ""
     for fn, s in top_10:
-        if not fn.endswith("story"):
-            output += fn + ".story" + "\n"
-        else:
-            output += fn + "\n"
+        output += fn + "\n"
 
     return {"result": output}
     
