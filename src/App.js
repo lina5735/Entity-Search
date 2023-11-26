@@ -12,17 +12,7 @@ function App() {
   const [date, setDate] = useState("")
   
   
-  // const [result, setResult] = useState(`d75747a87ac6c574f7bb11080f38f1563ed14b46.story
-  // d27044bfb4bc281dc8349aac09dad2e64be09411.story
-  // ce8cf58260bbc82772d666ece733044297a1e680.story
-  // c7fb0295ad6226798e65332c841f6a1508eb9efe.story
-  // 73ce0c3dc5c0752bdb392ccae44bfb53cec60dfb.story
-  // 7b9c0b64b7143a632af9455ce932c0a722b4e098.story
-  // 72ba50a8077052f867a02c670d7f6ed874f4ba12.story
-  // 057d4a3cf662f1bea473535288325bd481dd3b53.story
-  // fbf5bd723e4c01a5fa2d0236d6eebe90f6527c2f.story
-  // f29dd2478dd7000ecce5d27fb9225c798572aec3.story
-  // e3522246231dcc0134cf1089ec77c7d0672c693f.story`)
+
 
   const [alert, setAlert] = useState("")
   const [runTime, setRunTime] = useState("")
