@@ -9,7 +9,7 @@ from file_operations import process_token
 
 from scipy.sparse import csr_matrix
 
-root = str(Path.cwd().parent.parent) + "/data/tfidf/"
+root = str(Path.cwd().parent) + "/data/tfidf/"
 
 
 def weighted_search(people, location, organization, date, k=100):
@@ -98,7 +98,6 @@ def extract_filename(similarity_result):
 
 
 def vectorize_query(query, vocabulary_file, idf_file):
-    term_counts=Counter(query)
     tokens = process_token(query)
     TF_list=Counter(tokens)
     non_zero_values = []
