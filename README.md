@@ -16,13 +16,13 @@ search-ui/
 </pre>
 
 
-Run Flask Server
+## Run Flask Server
 
 ### `. api/venv/bin/activate`
 ### `cd api`
 ### `flask run`
 
-Runs Web App
+## Runs Web App
 
 ## `yarn install`
 ### `yarn start`
