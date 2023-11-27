@@ -1,5 +1,4 @@
 ![Image](demo.jpg)
-
 <pre>
 search-ui/
     |-- api/venv
@@ -24,7 +23,7 @@ search-ui/
 
 ## Runs Web App
 
-## `yarn install`
+### `yarn install`
 ### `yarn start`
 
 
