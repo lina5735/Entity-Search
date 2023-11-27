@@ -18,15 +18,18 @@ entity-search/
 
 ## Run Flask Server
 
-### `. api/venv/bin/activate`
-### `cd api`
-### `flask run`
+<pre>
+    . api/venv/bin/activate
+    cd api
+    flask run
+</pre>
 
 ## Runs Web App
 
-### `yarn install`
-### `yarn start`
-
+<pre>
+    yarn install
+    yarn start
+</pre>
 
 
 
