@@ -1,6 +1,6 @@
 ![Image](demo.jpg)
 <pre>
-search-ui/
+entity-search/
     |-- api/venv
         |-- compute_similarity.py
     |-- data/
