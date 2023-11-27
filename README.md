@@ -1,14 +1,15 @@
 ![Image](demo.jpg)
+## Highlights
 <pre>
 entity-search/
-    |-- api/venv
+    |-- api/venv/
         |-- compute_similarity.py
     |-- data/
-        |-- tfidf
-        |-- metadata
-            |-- entity -- extracted entity
-            |-- model_scores -- metrics of NLP tools
-            |-- notebooks --  metadata codes
+        |-- tfidf/              -- entity tfidfs
+        |-- metadata/
+            |-- entity/         -- extracted entity
+            |-- model_scores/   -- metrics of NLP tools
+            |-- notebooks/      -- metadata codes
             |-- manual_label.csv
             |-- Search Engine Query.csv
 
