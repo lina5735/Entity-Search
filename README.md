@@ -24,7 +24,7 @@ entity-search/
     flask run
 </pre>
 
-## Runs Web App
+## Run Web App
 
 <pre>
     yarn install
