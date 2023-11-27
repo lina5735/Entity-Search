@@ -53,7 +53,7 @@ def search_query(query, entity, k):
 def calculate_weight(people_list,location_list,org_list,date_list):
     people_weight,location_weight,org_weight,date_weight=0,0,0,0
     length_list=[len(people_list),len(location_list),len(org_list),len(date_list)]
-    f1_list=[0.6870607074633088,0.5287373720763592,0.42593168321979474,0.38440931970917164]
+    f1_list=[0.722,0.562,0.456,0.403]
     sum_=0
     for i in range(len(length_list)):
         if length_list[i] !=0:
