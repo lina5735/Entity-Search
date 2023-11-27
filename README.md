@@ -1,5 +1,6 @@
 ![Image](demo.jpg)
 
+<pre>
 search-ui/
     |-- api/venv
         |-- compute_similarity.py
@@ -12,7 +13,7 @@ search-ui/
             |-- manual_label.csv
             |-- Search Engine Query.csv
 
-
+</pre>
 
 
 Run Flask Server
