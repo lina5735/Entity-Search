@@ -34,4 +34,4 @@ entity-search/
 
 
 
-Project worked by: Lina Li, Nuo Chen `@nuochen0818`, Qiaochu Dai, Tian Cui, Zexin Gong
+Project worked by: Lina Li, Nuo Chen [@nuochen0818](https://github.com/nuochen0818), Qiaochu Dai, Tian Cui, Zexin Gong
